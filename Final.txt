@@ -1,0 +1,9 @@
+Adding in multiple scenes, complete with more sound effect 
+
+Start Scene, pause screen by pressing ESC to unlock the mouse to click on options, while clicking RESUME locks the mouse again and make the Pause screen invisible
+
+There is then the game scene, and the winning and losing screens respectively by reaching their conditions
+
+Enemies now do damage with projectiles and ram to players
+
+It does however run better when it's built

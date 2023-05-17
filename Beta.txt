@@ -1,0 +1,9 @@
+Adding in music, adding ammo boxes and health packs, as well as display UI for them
+
+the way the sprites are set up is to have a 3D collider as a child to a 2D sprite, 
+thus making the sprites collidable in all direction while they rotate to face the player so it gives off a fake 3D feel despite being pixelated 2D
+
+Adding in enemies which uses the raycast to check if there's obstacle and range to the player.
+If the player is in sight they will move to them and shoot projectiles and try to ram the player.
+
+Shooting the enemy 3 times kills it. Killing them all is the winning condition, and dying is the losing condition

@@ -1,0 +1,13 @@
+BOOMGUY 
+retro fps
+
+Sprites came from
+https://www.dropbox.com/s/juihs7yq93x1aon/GPJ_FPS_Assets.zip?dl=0
+Special thanks to the explanation video of how to code this by gameplusjames
+
+Set up movement for players
+WSAD for movement, mouse to aim and shoot
+Player is basically just invisible floating capsule
+
+used animation of changing the vertical axis as movement is done to simulate head bobbing
+set up arena, although tilemap is not functioning as expected in a 2D/3D mixture
